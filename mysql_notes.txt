@@ -7,7 +7,7 @@
 
 * What is Database?
 ----------------------
- A database is a separate application that stores a collection of data.Each databse has one or more distinct APIs for
+ A database is a separate application that stores a collection of data.Each database has one or more distinct APIs for
 creating,accessing,managing,searching and replicating the data it holds.
 
 Other kinds of data stores can be used,such as files on the file system or large hash tables in memory,but data fetching and writing
